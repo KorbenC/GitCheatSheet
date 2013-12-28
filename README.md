@@ -11,7 +11,7 @@
  1. [Branch & Merge](#branch)
  1. [Share & Update](#share)
  1. [Inspect & Compare](#inspect)
- 1. [Contributing on Github](#github)
+ 1. [Contributing on GitHub](#github)
  1. [Deploying to Heroku with Git](#heroku)
  1. [License](#license)
 
