@@ -4,15 +4,15 @@
 
 ## <a name='TOC'> Table of Contents</a>
 
-	1.[Overview](#overview)
-	1.[Basic Git Workflow Example](#basic)
-	1.[Setup & Init](#setup)
-	1.[Stage & Snapshot](#stage)
-	1.[Branch & Merge](#branch)
-	1.[Share & Update](#share)
-	1.[Inspect & Compare](#inspect)
-	1.[Contributing on Github](#contributing)
-	1.[Deploying to Heroku with Git](#heroku)
+ 1. [Overview](#overview)
+ 1. [Basic Git Workflow Example](#basic)
+ 1. [Setup & Init](#setup)
+ 1. [Stage & Snapshot](#stage)
+ 1. [Branch & Merge](#branch)
+ 1. [Share & Update](#share)
+ 1. [Inspect & Compare](#inspect)
+ 1. [Contributing on Github](#contributing)
+ 1. [Deploying to Heroku with Git](#heroku)
 
 ## <a name='overview'>Overview</a>
 
